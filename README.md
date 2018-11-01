@@ -1,2 +1,3 @@
 # Documentation
-Documentation Guide - Sample Trial
+
+This documentation repo keeps track of all changes to documentation made. 
